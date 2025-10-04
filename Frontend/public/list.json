@@ -1,0 +1,95 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"free",
+        "image":"../../public/books.jpg"
+    },
+     {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":50,
+        "category":"free",
+        "image":"../../public/books.jpg"
+    },
+     {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":30,
+        "category":"free",
+        "image":"../../public/books.jpg"
+    },
+     {
+        "id":4,
+        "name":"Horror Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"free",
+         "image":"../../public/books.jpg"
+    },
+     {
+        "id":5,
+        "name":"Money Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"free",
+        "image":"../../public/books.jpg"
+    },
+     {
+        "id":6,
+        "name":"Romantic Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"Peace",
+        "image":"../../public/books.jpg"
+    },
+        {
+        "id":7,
+        "name":"Music Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"Relax",
+        "image":"../../public/books.jpg"
+    },
+    
+    {
+        "id":8,
+        "name":"Knowledge Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"Intelligent",
+        "image":"../../public/books.jpg"
+    }, 
+    
+    {
+        "id":9,
+        "name":"Laughing Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"Laugh",
+        "image":"../../public/books.jpg"
+    }, 
+    
+    {
+        "id":10,
+        "name":"Drama Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"Drama",
+        "image":"../../public/books.jpg"
+    }, 
+    
+    {
+        "id":11,
+        "name":"Suspens Book",
+        "title":"Book is so beautiful you have to read this ",
+        "price":0,
+        "category":"Thrill",
+        "image":"../../public/books.jpg"
+    }
+
+]
