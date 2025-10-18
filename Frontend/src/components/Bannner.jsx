@@ -37,7 +37,7 @@ const Bannner = () => {
 
 
                     </div>
-                    <button className="btn btn-secondary ">Secondary</button>
+                    <button className="btn btn-secondary ">Get Started</button>
 
 
                 </div>
